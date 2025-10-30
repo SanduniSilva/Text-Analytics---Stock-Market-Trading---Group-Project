@@ -9,3 +9,5 @@ on the model's predictions, the analysis will place a strong emphasis on evaluat
 gains and the variability of profitability. With the help of this assignment, we hope to learn 
 more about how sentiment affects Tesla's stock price and assess how useful text analytics are 
 for making wise trading decisions.</p>
+
+[View the Full Report](https://github.com/SanduniSilva/Text-Analytics---Stock-Market-Trading---Group-Project/blob/155ab7d3c60d7b051e526f0ff5728114ee92dc31/Report.pdf)
