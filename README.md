@@ -1,5 +1,4 @@
 # Text-Analytics---Stock-Market-Trading---Group-Project
-The aim of this project is to apply text analytics techniques to stock market trading by utilizing  sentiment analysis on news articles and social media data to predict stock price movements.
 
 <p align="justify">This objective of this project is to apply text analytics methods to the field of stock market trading, 
 concentrating on Tesla, Inc. Our goal is to forecast changes in stock prices by using sentiment 
